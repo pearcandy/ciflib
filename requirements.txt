@@ -1,0 +1,5 @@
+Qulacs==0.2
+openfermion==1.0.0
+openfermionpyscf==0.5
+pyscf==1.7.2
+
