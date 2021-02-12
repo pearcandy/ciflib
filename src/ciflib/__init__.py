@@ -1,5 +1,5 @@
 __copyright__ = 'Copyright(c) 2020 PearCandy'
-__version__ = '0.1'
+__version__ = '0.1.1'
 __lisence__ = 'MIT'
 __author__ = 'PearCandy'
 __author_email__ = 'y.nishi1980@gmail.com'

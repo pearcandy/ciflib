@@ -60,7 +60,7 @@ contact y.nishi1980@gmail.com''')
 
         cryst.construct_structure()
 
-        print('\n[cif]')
+        print('\n[space group]')
 
         print(cryst.space_group_crystal_system)
         print(cryst.symmetry_Int_Tables_number)
