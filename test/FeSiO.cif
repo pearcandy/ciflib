@@ -1,0 +1,105 @@
+data_NIMS_MatNavi_4296373011_1_2
+
+#
+# COPYRIGHT NOTICE
+#
+# This CIF data is created using data from AtomWork, published 2010/06 by
+# National Institute for Materials Science (NIMS), Tsukuba, Japan. Copyright
+# 2010 by NIMS and  Materials Phases Data system (MPDS), Vitznau,
+# Switzerland. All Rghts Reserved.
+#
+# DISCLAIMER
+#
+# The values reported here are taken from the literature and other sources and
+# the author does not warrant their correctness nor accept any
+# responsibility for errors. Users are advised to consult the primarysources.
+#
+
+_chemical_formula_sum 'Fe O3 Si'
+_space_group_crystal_system triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+
+loop_
+    _symmetry_equiv_pos_site_id
+    _symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+
+_cell_length_a 6.628
+_cell_length_b 7.467
+_cell_length_c 20.5535
+_cell_angle_alpha 83.851
+_cell_angle_beta 81.625
+_cell_angle_gamma 84.51
+_cell_volume 997.3
+_cell_formula_units_Z 18
+
+loop_
+    _atom_site_label
+    _atom_site_fract_x
+    _atom_site_fract_y
+    _atom_site_fract_z
+    _atom_site_occupancy
+    _atom_site_symmetry_multiplicity
+    _atom_site_Wyckoff_symbol
+    _atom_site_U_iso_or_equiv
+    _atom_site_type_symbol
+O(A4) 0.00986 0.34691 0.59949 1.0 2 i ? O
+M12 0.02977 0.8444 0.3063 1.0 2 i ? Fe
+O(B2) 0.04924 0.01237 0.21484 1.0 2 i ? O
+M10 0.05134 0.46397 0.91889 1.0 2 i ? Fe
+O(A1) 0.05554 0.32326 0.0225 1.0 2 i ? O
+Si2 0.10381 0.21661 0.19403 1.0 2 i ? Si
+M13 0.11189 0.14374 0.53356 1.0 2 i ? Fe
+O(B4) 0.12298 0.30419 0.44131 1.0 2 i ? O
+O(A3) 0.12996 0.63827 0.24041 1.0 2 i ? O
+M23 0.14528 0.82351 0.15097 1.0 2 i ? Fe
+O(A8) 0.15208 0.25354 0.84803 1.0 2 i ? O
+O(B1) 0.17039 0.98945 0.05623 1.0 2 i ? O
+Si4 0.17754 0.50412 0.41198 1.0 2 i ? Si
+M11 0.19183 0.4445 0.75993 1.0 2 i ? Fe
+O(B6) 0.20211 0.60386 0.67184 1.0 2 i ? O
+O(C2) 0.2108 0.2844 0.25302 1.0 2 i ? O
+M25 0.22018 0.1107 0.38125 1.0 2 i ? Fe
+Si1 0.23845 0.19051 0.05161 1.0 2 i ? Si
+O(A10) 0.24385 0.62595 0.07407 1.0 2 i ? O
+O(A7) 0.27772 0.22729 0.69454 1.0 2 i ? O
+O(C1) 0.27855 0.22846 0.12649 1.0 2 i ? O
+Si3 0.29602 0.47875 0.26288 1.0 2 i ? Si
+M24 0.30572 0.41418 0.60798 1.0 2 i ? Fe
+O(C3) 0.31869 0.47713 0.34047 1.0 2 i ? O
+O(C4) 0.32208 0.5807 0.45909 1.0 2 i ? O
+Si8 0.33723 0.09824 0.85205 1.0 2 i ? Si
+O(B5) 0.39814 0.20446 0.55232 1.0 2 i ? O
+O(C7) 0.43699 0.01221 0.78396 1.0 2 i ? O
+O(C9) 0.45147 0.22959 0.00325 1.0 2 i ? O
+Si7 0.45657 0.06774 0.70414 1.0 2 i ? Si
+O(C8) 0.47986 0.80276 0.1237 1.0 2 i ? O
+Si9 0.48502 0.65489 0.06869 1.0 2 i ? Si
+O(B3) 0.52015 0.48037 0.22128 1.0 2 i ? O
+O(C6) 0.57162 0.11581 0.33012 1.0 2 i ? O
+M21 0.61078 0.29195 0.15928 1.0 2 i ? Fe
+O(C5) 0.62484 0.26692 0.43628 1.0 2 i ? O
+Si5 0.62611 0.22897 0.51594 1.0 2 i ? Si
+O(A9) 0.64791 0.48617 0.07816 1.0 2 i ? O
+O(B7) 0.68729 0.10296 0.67404 1.0 2 i ? O
+O(B8) 0.7153 0.08441 0.10321 1.0 2 i ? O
+Si6 0.7412 0.20373 0.36539 1.0 2 i ? Si
+O(A5) 0.79999 0.06884 0.52991 1.0 2 i ? O
+M22 0.80849 0.18363 0.01388 1.0 2 i ? Fe
+O(A2) 0.91535 0.35665 0.17413 1.0 2 i ? O
+O(A6) 0.92235 0.04693 0.3749 1.0 2 i ? O
+
+_publ_section_title 'Ferrosilite III, the High-Temperature Polymorph of FeSiO~3~'
+_journal_coden_ASTM ACSCEE
+_journal_name_full 'Acta Crystallogr. C'
+_journal_year 1983
+_journal_volume 39
+_journal_page_first 1
+_journal_page_last 3
+_journal_language English
+
+loop_
+    _publ_author_name
+'Weber H.P.'

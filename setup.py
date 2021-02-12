@@ -21,8 +21,8 @@ def _requires_from_file(filename):
 
 setup(
     name="ciflib",
-    version="0.1",
-    license="GNU lv3",
+    version="0.1.1",
+    license="MIT",
     description="Tools for quantum chemistry with quantum computer",
     long_description="README.md",
     long_description_content_type="text/markdown",
@@ -30,6 +30,7 @@ setup(
     url="https://github.com/pearcandy",
     packages=find_packages("src"),
     package_dir={"": "src"},
+    package_data={'': ['config/*']},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
     include_package_data=True,
     zip_safe=False,
@@ -37,4 +38,5 @@ setup(
     setup_requires=["pytest-runner"],
     tests_require=["pytest", "pytest-cov"],
     python_requires='>=3.7',
+    scripts=['ciflib'],
 )
