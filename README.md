@@ -1,6 +1,6 @@
-### ciflib
+## ciflib
 
-A python library for reading Crystallographic Information File (CIF) and converting CIF to input of some DFT code.
+A python library for analyzing the Crystallographic Information File (CIF).
 
 
 #### Install 
@@ -16,7 +16,7 @@ ciflib -c (CIF directory)/***.cif
 
 
 
-help
+#### help
 
 ```
 ciflib -h
