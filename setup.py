@@ -23,7 +23,8 @@ setup(
     name="ciflib",
     version="0.1.1",
     license="MIT",
-    description="Tools for quantum chemistry with quantum computer",
+    description=
+    "A python library for analyzing the Crystallographic Information File (CIF).",
     long_description="README.md",
     long_description_content_type="text/markdown",
     author="PearCandy",
