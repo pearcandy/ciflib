@@ -21,7 +21,7 @@ def _requires_from_file(filename):
 
 setup(
     name="ciflib",
-    version="0.1.1",
+    version="0.1.2",
     license="MIT",
     description=
     "A python library for analyzing the Crystallographic Information File (CIF).",
